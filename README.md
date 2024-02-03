@@ -4,6 +4,10 @@
 
 An AI consultation service built with Flask and OpenAI v4 API, designed to answer site-related questions by crawling and analyzing the target website, openai.com, excluding unrelated queries.
 
+## Presentation
+
+View presentation [PDF file](https://drive.google.com/file/d/1dMAfNc9gHi5l_dAv75uM8IPKn_QNxyRx/view?usp=sharing)
+
 ## Features
 
 - Web crawling for data collection
